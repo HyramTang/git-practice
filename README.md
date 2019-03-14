@@ -74,6 +74,7 @@
 
 ## 远程
 ### remote
+- `git remote -v`：查看现有的远程仓库地址
 - `git remote add origin <仓库地址>`：给本地仓库添加远程仓库地址
 ### pull
 - `git pull`：拉取远程仓库内容，本质：fetch 后再 merge
