@@ -20,7 +20,7 @@
 - `git log`：显示完整提交历史
 - `git log --oneline`：精简显示到一行
 - `git log --author=<提交者名称>`：查看某人的提交内容
-- `git log -- <文件名>`：查看某个文件的提交内容
+- `git log <文件名>`：查看某个文件的提交内容
 - `git reflog`：查看引用的 log，HEAD 移动记录
 ### show
 - `git show`：查看最近一次提交的具体内容
